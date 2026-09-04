@@ -61,7 +61,5 @@ li {
 }
 footer {
     border: black solid 2px;
-    margin-top: 10px;
-    margin-left: 50px;
-    margin-right: 20px;
+    margin: 10px 20px 30px 40px;
 }
